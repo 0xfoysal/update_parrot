@@ -22,8 +22,9 @@ This Bash script provides a convenient way to update Parrot OS repositories or p
    ```bash
    chmod +x parrot_update.sh
 3. Run the script
-   ```bash
+   ```
    ./parrot_update.sh
+   ```
 4. select an option from the menu
    ```
    Choose an option:
