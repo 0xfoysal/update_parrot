@@ -26,10 +26,10 @@ This Bash script provides a convenient way to update Parrot OS repositories or p
    ./parrot_update.sh
    ```
 4. select an option from the menu
-   ```
-   Choose an option:
+```
+Choose an option:
     1. Update Parrot OS repositories
     2. Update a Git repository
     3. Exit
-    Enter your choice (1/2/3):
-  ```
+    Enter your choice (1/2/3):   
+```
