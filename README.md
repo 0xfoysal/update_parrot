@@ -33,4 +33,3 @@ This Bash script provides a convenient way to update Parrot OS repositories or p
     3. Exit
     Enter your choice (1/2/3):
   ```
-
